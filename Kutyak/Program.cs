@@ -76,6 +76,8 @@ namespace Kutyak
             KutyaFajtaBeolvasas();
             KutyaBeolvasas();
 
+
+
             Console.WriteLine(kutyaLista.Count);
 
             Harmadik();
